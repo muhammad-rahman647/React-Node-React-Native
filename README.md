@@ -16,3 +16,5 @@ commands:
 npm run start in 'the root directory'
 npx expo start in 'packages/mobile'
 ```
+
+# End
